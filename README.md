@@ -2,13 +2,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/deannapi/note-taker)
 ![GitHub](https://img.shields.io/github/license/deannapi/note-taker)
 ![GitHub followers](https://img.shields.io/github/followers/deannapi?style=social)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/deannapi/note-taker)note-taker)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/deannapi/note-taker)
 
-# Note Taker 
+# :memo: Note Taker :memo:
 
 ## :bookmark: Table of Contents
 
-## Tools
+## :hammer: Tools
 * Express.js
 * Jest
 * Heroku
@@ -16,7 +16,7 @@
 * JSON
 
 ## :bulb: Description
-This application will use an `Express.js` back end and will save and retrieve data from a JSON file. 
+        🔍This application will use an `Express.js` back end and will save and retrieve data from a JSON file. 
         GIVEN a note-taking application
         WHEN I open the Note Taker
         THEN I am presented with a landing page with a link to a notes page
