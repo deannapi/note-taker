@@ -7,16 +7,20 @@
 # :memo: Note Taker :memo:
 
 ## :bookmark: Table of Contents
+[Tools](#tools)
+[Description](#description)
+[Demo](#demo)
 
 ## :hammer: Tools
-* Express.js
-* Jest
-* Heroku
-* Insomnia
-* JSON
+* [Express.js](https://expressjs.com/)
+* [Jest](https://jestjs.io/en/)
+* [Heroku](https://devcenter.heroku.com/start)
+* [Insomnia](https://support.insomnia.rest/)
+* [JSON](https://www.json.org/json-en.html)
 
 ## :bulb: Description
         🔍This application will use an `Express.js` back end and will save and retrieve data from a JSON file. 
+
         GIVEN a note-taking application
         WHEN I open the Note Taker
         THEN I am presented with a landing page with a link to a notes page
