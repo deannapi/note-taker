@@ -7,9 +7,9 @@
 # :memo: Note Taker :memo:
 
 ## :bookmark: Table of Contents
-[Tools](#tools)
-[Description](#description)
-[Demo](#demo)
+* [Tools](#tools)
+* [Description](#description)
+* [Demo](#demo)
 
 ## :hammer: Tools
 * [Express.js](https://expressjs.com/)
