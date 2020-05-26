@@ -2,7 +2,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/deannapi/note-taker)
 ![GitHub](https://img.shields.io/github/license/deannapi/note-taker)
 ![GitHub followers](https://img.shields.io/github/followers/deannapi?style=social)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/deannapi/
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/deannapi/note-taker)note-taker)
 
 # Note Taker 
