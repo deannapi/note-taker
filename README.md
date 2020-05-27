@@ -37,10 +37,10 @@
         THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Instructions
-       * Install [Express.js](https://expressjs.com/) by running the command `npm init -y` and `npm i express`. 
-        
-        * Download [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
-            * To create a new Heroku application , enter the command `heroku create <app-name>` into the terminal.
+* Install [Express.js](https://expressjs.com/) by running the command `npm init -y` and `npm i express`. 
+
+* Download [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
+* To create a new Heroku application , enter the command `heroku create <app-name>` into the terminal.
 
 
 
