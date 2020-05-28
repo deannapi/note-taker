@@ -2,11 +2,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/deannapi/note-taker)
 ![GitHub](https://img.shields.io/github/license/deannapi/note-taker)
 ![GitHub followers](https://img.shields.io/github/followers/deannapi?style=social)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/deannapi/note-taker)
+![GitHub last commit](https://img.shields.io/github/last-commit/deannapi/note-taker)
 
 # :memo: Note Taker :memo:
 
 [Heroku App](https://git.heroku.com/deanna-note-taker.git)
+
 [GitHub Repo](https://deannapi.github.io/note-taker/)
 
 ## :bookmark: Table of Contents
