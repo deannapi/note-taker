@@ -6,6 +6,9 @@
 
 # :memo: Note Taker :memo:
 
+[Heroku App](https://git.heroku.com/deanna-note-taker.git)
+[GitHub Repo](https://deannapi.github.io/note-taker/)
+
 ## :bookmark: Table of Contents
 * [Tools](#tools)
 * [Description](#description)
@@ -45,7 +48,7 @@
 
 
 ## Demo
-https://deannapi.github.io/note-taker/
+
 ![]()
 
 
