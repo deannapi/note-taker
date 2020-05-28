@@ -6,7 +6,7 @@
 
 # :memo: Note Taker :memo:
 
-[Heroku App](https://git.heroku.com/deanna-note-taker.git)
+[Heroku App](https://deanna-note-taker.herokuapp.com/)
 
 [GitHub Repo](https://deannapi.github.io/note-taker/)
 
@@ -22,6 +22,7 @@
 * [Heroku](https://devcenter.heroku.com/start)
 * [Insomnia](https://support.insomnia.rest/)
 * [JSON](https://www.json.org/json-en.html)
+* [Node.js](https://nodejs.org/en/)
 
 ## :bulb: Description
         🔍This application will use an Express.js back end and will save and retrieve data from a JSON file. 

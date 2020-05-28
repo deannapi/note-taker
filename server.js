@@ -3,7 +3,7 @@ const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
 const express = require('express');
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3000;
 
 // Folder to retrieve CSS and JS Files
 app.use(express.static('public'));
@@ -14,11 +14,11 @@ app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
 // Add routes for HTML pages
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+app.get('/notes', (req, res) => {
+    res.sendFile(path.join(__dirname, "Develop/public/notes.html"));
 });
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'notes.html'));
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, "Develop/public/index.html"));
 });
 
 // PORT
