@@ -4,8 +4,7 @@ html, body {
   padding: 0;
 }
 
-footer {
-  position: -webkit-sticky;
+/* footer {
   bottom: 0;
   width: 100%;
   font-size: 18px;
@@ -13,7 +12,7 @@ footer {
   margin-top: 20px;
   color: white;
   background-color: #303030;
-}
+} */
 
 .save-note {
   display: none;
