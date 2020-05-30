@@ -25,7 +25,7 @@
 * [Node.js](https://nodejs.org/en/)
 
 ## :bulb: Description
-        🔍This application will use an Express.js back end and will save and retrieve data from a JSON file. 
+        🔍This application will use an Express.js back-end and will save and retrieve data from a JSON file. 
 
         GIVEN a note-taking application
         WHEN I open the Note Taker
@@ -51,6 +51,4 @@
 
 ## Demo
 
-![]()
-
-
+![note-taker](note-taker.jpg)
